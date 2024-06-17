@@ -1,0 +1,18 @@
+2023-04-19 20:06:10.238 [info] 
+
+
+
+
+2023-04-19 20:06:10.264 [info] Extension host agent started.
+2023-04-19 20:06:10.320 [info] [127.0.0.1][b5d80278][ManagementConnection] New connection established.
+2023-04-19 20:06:10.447 [info] [127.0.0.1][2817b115][ExtensionHostConnection] New connection established.
+2023-04-19 20:06:10.453 [info] [127.0.0.1][2817b115][ExtensionHostConnection] <4449> Launched Extension Host Process.
+2023-04-19 20:23:26.008 [info] Getting Manifest... ms-vscode.live-server
+2023-04-19 20:23:26.160 [info] Installing extension: ms-vscode.live-server
+2023-04-19 20:23:27.800 [info] Extension signature is verified: ms-vscode.live-server
+2023-04-19 20:23:27.994 [info] Extracted extension to /home/mitsuun/.vscode-server/extensions/.300e1012-3c5d-4629-9572-dc52289e3496: ms-vscode.live-server
+2023-04-19 20:23:27.998 [info] Renamed to /home/mitsuun/.vscode-server/extensions/ms-vscode.live-server-0.4.7
+2023-04-19 20:23:28.000 [info] Extracting extension completed. ms-vscode.live-server
+2023-04-19 20:23:28.004 [info] Extension installed successfully: ms-vscode.live-server
+2023-04-19 20:26:04.598 [info] [127.0.0.1][b5d80278][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2023-04-19 20:26:04.621 [info] [127.0.0.1][2817b115][ExtensionHostConnection] <4449> Extension Host Process exited with code: 0, signal: null.

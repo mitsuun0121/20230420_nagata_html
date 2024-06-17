@@ -1,0 +1,24 @@
+2023-04-19 16:47:23.835 [info] 
+
+
+
+
+2023-04-19 16:47:23.835 [info] Extension host agent started.
+2023-04-19 16:47:23.843 [info] Started initializing default profile extensions in extensions installation folder. file:///home/mitsuun/.vscode-server/extensions
+2023-04-19 16:47:23.858 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/mitsuun/.vscode-server/extensions
+2023-04-19 16:47:23.943 [info] [127.0.0.1][75ea1da1][ManagementConnection] New connection established.
+2023-04-19 16:47:24.151 [info] [127.0.0.1][2a3a5b2c][ExtensionHostConnection] New connection established.
+2023-04-19 16:47:24.156 [info] [127.0.0.1][2a3a5b2c][ExtensionHostConnection] <416> Launched Extension Host Process.
+2023-04-19 16:47:24.371 [info] Installing extensions...
+2023-04-19 16:47:24.928 [info] Installing extension 'ms-ceintl.vscode-language-pack-ja'...
+2023-04-19 16:47:25.037 [info] Getting Manifest... ms-ceintl.vscode-language-pack-ja
+2023-04-19 16:47:25.211 [info] Installing extension: ms-ceintl.vscode-language-pack-ja
+2023-04-19 16:47:27.522 [info] Extension signature is verified: ms-ceintl.vscode-language-pack-ja
+2023-04-19 16:47:27.654 [info] Extracted extension to /home/mitsuun/.vscode-server/extensions/.1cebb0ba-a459-4579-a54d-99d8134ec473: ms-ceintl.vscode-language-pack-ja
+2023-04-19 16:47:27.660 [info] Renamed to /home/mitsuun/.vscode-server/extensions/ms-ceintl.vscode-language-pack-ja-1.77.2023041209
+2023-04-19 16:47:27.662 [info] Extracting extension completed. ms-ceintl.vscode-language-pack-ja
+2023-04-19 16:47:27.668 [info] Adding language packs from the extension ms-ceintl.vscode-language-pack-ja
+2023-04-19 16:47:27.705 [info] Extension installed successfully: ms-ceintl.vscode-language-pack-ja
+2023-04-19 16:47:27.706 [info] Extension 'ms-ceintl.vscode-language-pack-ja' v1.77.2023041209 was successfully installed.
+2023-04-19 17:24:38.152 [info] [127.0.0.1][75ea1da1][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2023-04-19 17:24:38.180 [info] [127.0.0.1][2a3a5b2c][ExtensionHostConnection] <416> Extension Host Process exited with code: 0, signal: null.
